@@ -42,7 +42,7 @@ h1 {
     height: 675px;
     position: relative;
     z-index: 1;
-    padding-top: 65px;
+    padding-top: 29px;
 }
 
 .video {
@@ -87,4 +87,23 @@ footer {
 .ftr {
     padding-top:35px;
     background-color: #3f0002;
+}
+
+
+
+
+.soc1 {
+    text-align: right;
+    margin-right: -41%;
+    color: white;
+}
+
+.fa-facebook-f {
+    background-color: #850409;
+    padding: 10px 18px 7px 18px;
+}
+
+.fa-twitter {
+    background-color: #98161b;
+    padding: 10px 18px 7px 10px;
 }
